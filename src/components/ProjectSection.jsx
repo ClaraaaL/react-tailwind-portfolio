@@ -7,7 +7,7 @@ const projects = [
         description: "A Period Tracking Web Application", 
         image: "/project/HerLuna.png",
         tags: ["Next.js", "TailwindCSS", "API Integration", "Firebase","React"],
-        demoUrl:"her-luna-git-main-claraaals-projects.vercel.app",
+        demoUrl:"https://herlunaperiodtrackingapp.vercel.app/",
         githubUrl:"https://github.com/ClaraaaL/HerLuna",
     },
 

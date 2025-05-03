@@ -76,7 +76,7 @@ export const ContactSection = () => {
                                 <div>
                                     <h4 className="font-medium">Email</h4>
                                     <a href="mailto:babananacream@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
-                                        babananacream@gmail.com
+                                        Click here to send an email to me
                                     </a>
                                 </div>
                             </div>
@@ -153,7 +153,7 @@ export const ContactSection = () => {
                                     required 
                                     value={formData.email}
                                     className="py-3 rounded-md px-4 w-full bg-background border border-input focus:outline-none focus:ring-2 focus:ring-primary" 
-                                    placeholder="clara@gmail.com"
+                                    placeholder="test@example.com"
                                     onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                                 />
                             </div>
